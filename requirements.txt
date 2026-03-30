@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+open3d
+h5py
+tqdm
+scikit-learn
+pyyaml
+torch==1.13.0
+torchvision
+torchaudio
+pytorch3d
