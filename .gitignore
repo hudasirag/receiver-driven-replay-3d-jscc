@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+weights/
+
+# Datasets and large data files
+data/
+datasets/
+*.h5
+*.npz
+*.npy
+*.ply
+*.pcd
+*.bin
