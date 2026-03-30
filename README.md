@@ -7,4 +7,4 @@ This repository contains the implementation of the receiver-driven replay protoc
 - Round-1 replay residual refinement
 
 ## Status
-Code, checkpoints, and instructions are being organized for release.
+Code, and instructions are being organized for release.
